@@ -1,1 +1,3 @@
-# sgearnbotPHP
+# sgearnbot for PHP
+
+#SOON
